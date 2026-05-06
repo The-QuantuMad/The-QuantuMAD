@@ -47,4 +47,4 @@ Python, PyTorch, TypeScript, Node.js, Hugging Face, Firebase, GitHub Actions.
 
 ## Find me
 
-[LinkedIn](https://www.linkedin.com/in/ahmad-el-shiekh-02b9b01a1/) · [ORCID](https://orcid.org/0009-0001-6837-6202) · [Google Scholar](https://scholar.google.com/citations?user=KaHryaEAAAAJ) · [GitHub Quantu-MAD](https://github.com/Quantu-MAD) · [GitHub Ahmed-Sheikh-PhD](https://github.com/Ahmed-Sheikh-PhD) · [Boostnetic](https://www.boostnetic.xyz) · mad.elshiekh@perle.ai
+[LinkedIn](https://www.linkedin.com/in/ahmad-el-shiekh-02b9b01a1/) · [ORCID](https://orcid.org/0009-0001-6837-6202) · [Google Scholar](https://scholar.google.com/citations?user=KaHryaEAAAAJ) · [GitHub Quantu-MAD](https://github.com/Quantu-MAD) · [GitHub Ahmed-Sheikh-PhD](https://github.com/Ahmed-Sheikh-PhD) · [Boostnetic](https://www.boostnetic.xyz) · mad.elshiekh@perle.ai · ahmad@boostnetic.xyz
