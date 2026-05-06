@@ -1,46 +1,50 @@
-# 👋 Hey there! I'm Ahmed Elsheikh
+# Ahmed Elsheikh
 
-🚀 Building the future of AI-native productivity tools
-🧪 PhD in Quantum Mechanics • 🍌 Liberlander • 🇪🇺 EMEA
-⚙️ Product & Program • Researcher • Growth Hacker
+Engineering & Research Lead at [Perle AI](https://huggingface.co/Perle-ai). Quantum-Mechanics Researcher at the University of Greifswald. Based in EMEA.
 
----
+I work on what AI actually costs to build, run, and trust: compute, energy, and the human time it takes to evaluate it.
 
-## 💼 What I'm Working On
+## What I'm working on
 
-- 🗣️ **STS** – A Ground breaking Speech to Speech Model (ASR, TTS & TTT)
-- 🤖 **NBULA** – MLOps for next-gen AI agents  
-- ⚡ **NXUS / NXTRA** – Data engines & pipeline orchestration at scale
-- 👨🏻‍💻 **TestAI** – Forget about manual testing for your AI
-- 🧬 **Quantum Research** – Simulations + academic deep dives (ask me about tunneling 🤓)
-- 📀 **ScaleAI** - Get complete quality data life cycle
+- **STS:** speech-to-speech, covering ASR, TTS, and direct text-to-text.
+- **NBULA:** MLOps for AI-agent deployment.
+- **NXUS / NXTRA:** data engines and pipeline orchestration.
+- **TestAI:** automated testing for AI systems, instead of doing it by hand.
+- **Quantum research:** thermoelectric energy recovery from GPU heat, functional quantum materials (Bornite, Cu₅FeS₄), and quantum-tunnelling simulations.
+- **Scale AI consulting:** annotation pipelines and data quality.
 
----
+## What I shipped before this
 
-## 🧰 Toolbox
+**Munsit** (CNTXT, Abu Dhabi). Engineering delivery lead on an Arabic speech-to-speech model trained on 15,000+ hours of audio. Beat OpenAI, Meta, and Microsoft on Arabic benchmarks.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+**[CNTXTAI0](https://huggingface.co/CNTXTAI0).** Contributed to CNTXT's public dataset releases on Hugging Face: 12 Arabic-language corpora across dialect Q&A, medical text (case studies, patient reports, clinical procedures, doctor notes, review papers, Q&A), and legal documents (legislation, court cases).
 
----
+**Microsoft, Vodafone Intelligent Solutions, Scale AI.** Earlier engineering work across cloud, platform, and annotation programmes. Have run cross-functional teams of up to ~100 people on AI annotation, NLP evaluation, and data-platform delivery.
 
-## 🔍 Featured Repos
+## 2026 papers (Zenodo)
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [NBULA](#) | 🚀 MLOps pipeline for agent deployment | Python, FastAPI, Docker |
-| [Quantum Tunneling Sim](#) | 🎓 Visual + data analysis | Python, Jupyter |
-| [Nxus Engine](#) | ⚙️ High-performance data flows | Python, Kafka |
-| [TS-Firebase Starter](#) | 📦 Clean boilerplate | TS, Firebase, Vitest |
+- *AI Compute at the Thermodynamic Limit: Energy Scarcity, GPU Heat, and Functional Quantum Materials.*
+- *Enhancing Geothermal Enthalpy Extraction Using Quantum Nanofluids.*
+- *On the Emergent Character of the Light-Speed Limit in Relativistic Kinematics.*
 
----
+## Featured releases
 
-## 💬 Let's Connect
+| Project | What it is | Where |
+|---|---|---|
+| Multi-phase CECT + radiology reports | De-identified medical CT dataset paired with radiology reports. 10 subjects, 171 series, 32k DICOMs. | [Perle-ai/multimodal-ct-radiology-reports](https://huggingface.co/datasets/Perle-ai/multimodal-ct-radiology-reports) |
+| CNTXTAI Arabic corpora | 12 datasets across Arabic dialect, medical, and legal text. | [huggingface.co/CNTXTAI0](https://huggingface.co/CNTXTAI0) |
+| Bupper QCV | React PoC for quantum-circuit visualisation, with classical and AI-driven baselines. | [github.com/Ahmed-Sheikh-PhD/Bupper.nz_QCV](https://github.com/Ahmed-Sheikh-PhD/Bupper.nz_QCV) |
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elsheikh)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:you@example.com)
+## Background
 
-> *"Built different. Thinks in flows. Codes in purpose."*  
+Researching at the Institute of Mathematics and Natural Sciences, University of Greifswald, on AI-compute thermodynamics and functional quantum materials.
+
+Earlier: Associate in Quantum Mechanics, Stanford. BSc in Energy Engineering & Geoscience, Alexandria University. Lean Six Sigma Green Belt. Certified PM.
+
+## Stack
+
+Python, PyTorch, TypeScript, Node.js, Hugging Face, Firebase, GitHub Actions.
+
+## Find me
+
+[LinkedIn](https://www.linkedin.com/in/ahmad-el-shiekh-02b9b01a1/) · [ORCID](https://orcid.org/0009-0001-6837-6202) · [Google Scholar](https://scholar.google.com/citations?user=KaHryaEAAAAJ) · [GitHub Quantu-MAD](https://github.com/Quantu-MAD) · [GitHub Ahmed-Sheikh-PhD](https://github.com/Ahmed-Sheikh-PhD) · [Boostnetic](https://www.boostnetic.xyz) · mad.elshiekh@perle.ai
