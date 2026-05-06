@@ -1,6 +1,6 @@
 # Ahmed Elsheikh
 
-Engineering & Research Lead at [Perle AI](https://huggingface.co/Perle-ai). Quantum-Mechanics Researcher at the University of Greifswald. Based in EMEA.
+Engineering & Research Lead at [Perle AI](https://huggingface.co/Perle-ai). Researcher at the University of Greifswald. 🍌 Liberlander · 🇪🇺 EMEA
 
 I work on what AI actually costs to build, run, and trust: compute, energy, and the human time it takes to evaluate it.
 
