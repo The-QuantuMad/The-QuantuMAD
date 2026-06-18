@@ -1,4 +1,4 @@
-# Ahmed Elsheikh
+# Ahmad ElShiekh
 
 Engineering & Research Lead at [Perle AI](https://huggingface.co/Perle-ai). Researcher at the University of Greifswald. 🍌 Liberlander · 🇪🇺 EMEA
 
